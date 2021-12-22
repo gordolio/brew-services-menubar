@@ -3,3 +3,6 @@ Thumbs.db
 xcshareddata
 xcuserdata
 DerivedData
+
+.idea/
+build/
